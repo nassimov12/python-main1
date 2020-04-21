@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa31975f-4be6-475e-a081-073bca7c09d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ana0V0YgXiBCzcP6lc8piLqY8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa31975f-4be6-475e-a081-073bca7c09d1" name="Default Changelist" comment="" />
+      <created>1587373588706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587373588706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587373620393">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="258" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.873@0.0.1600.873" timestamp="1587373620393" />
+    <state x="497" y="35" width="598" height="797" key="#main" timestamp="1587373882237">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state x="497" y="35" width="598" height="797" key="#main/0.0.1600.873@0.0.1600.873" timestamp="1587373882237" />
+    <state width="1377" height="208" key="GridCell.Tab.0.bottom" timestamp="1587373926213">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1377" height="208" key="GridCell.Tab.0.bottom/0.0.1600.873@0.0.1600.873" timestamp="1587373926213" />
+    <state width="1377" height="208" key="GridCell.Tab.0.center" timestamp="1587373926212">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1377" height="208" key="GridCell.Tab.0.center/0.0.1600.873@0.0.1600.873" timestamp="1587373926212" />
+    <state width="1377" height="208" key="GridCell.Tab.0.left" timestamp="1587373926212">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1377" height="208" key="GridCell.Tab.0.left/0.0.1600.873@0.0.1600.873" timestamp="1587373926212" />
+    <state width="1377" height="208" key="GridCell.Tab.0.right" timestamp="1587373926213">
+      <screen x="0" y="0" width="1600" height="873" />
+    </state>
+    <state width="1377" height="208" key="GridCell.Tab.0.right/0.0.1600.873@0.0.1600.873" timestamp="1587373926213" />
+  </component>
+</project>
